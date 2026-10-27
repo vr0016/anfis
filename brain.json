@@ -1,0 +1,76 @@
+{
+  "meningioma": {
+    "name": "Meningioma",
+    "what_it_is": "A tumour that grows from the meninges, the protective layers surrounding the brain and spinal cord. Most are non-cancerous and slow-growing, and many cause no symptoms until they become larger.",
+    "common_symptoms": ["headaches", "seizures", "changes in vision", "weakness or numbness", "changes in memory or personality"],
+    "typical_next_steps": [
+      "See a GP, who may carry out simple checks of eyesight, balance and memory",
+      "The GP may refer you to a neurologist or neurosurgeon for further tests",
+      "Management depends on the tumour's type, location and symptoms, and may involve monitoring rather than immediate treatment"
+    ],
+    "self_care": [
+      "Keep a written record of symptoms with dates, which helps the specialist assess any pattern or change",
+      "Pace yourself and get enough rest; fatigue is common",
+      "You must tell the DVLA (or your local licensing authority) if you are diagnosed with a brain tumour that needs treatment",
+      "If you have had a seizure, stop driving and inform the licensing authority",
+      "After a seizure, take showers rather than baths and take extra care with cooking, fires and gardening",
+      "Alcohol in moderation is generally fine, but it can trigger seizures in people who have them"
+    ],
+    "urgency": "soon",
+    "source": "NHS Benign brain tumour (https://www.nhs.uk/conditions/benign-brain-tumour/); Leeds Teaching Hospitals NHS Trust, Living with and beyond a brain tumour (https://www.leedsth.nhs.uk/services/brain-tumour/living-with-and-beyond-brain-tumour/)"
+  },
+  "glioma": {
+    "name": "Glioma",
+    "what_it_is": "A tumour originating from the glial cells that support the brain. Gliomas can be non-cancerous or cancerous, and are graded by how quickly they grow.",
+    "common_symptoms": ["headaches", "seizures", "nausea or vomiting", "weakness or numbness", "problems with speech"],
+    "typical_next_steps": [
+      "See a GP about any persistent symptoms",
+      "A specialist referral is usually needed to determine the tumour's type and grade",
+      "Further tests after an initial scan establish the grade and the appropriate treatment"
+    ],
+    "self_care": [
+      "Keep a written record of symptoms with dates, so changes over time are visible to your specialist",
+      "Pace yourself and allow time to rest",
+      "You must tell the DVLA (or your local licensing authority) about the diagnosis, and you must not drive while a brain tumour is suspected",
+      "If you have seizures, stop driving, take showers rather than baths, and take care around cooking, fires and gardening",
+      "Tell your doctor if seizures begin or become more frequent"
+    ],
+    "urgency": "soon",
+    "source": "NHS Brain tumour (https://www.nhs.uk/conditions/brain-tumour/); United Lincolnshire Hospitals NHS Trust, Seizures and brain tumours (https://website.ulh.nhs.uk/documents/patient_information_leaflets/)"
+  },
+  "pituitary": {
+    "name": "Pituitary tumour (adenoma)",
+    "what_it_is": "A growth in the pituitary gland, a small gland at the base of the brain that produces hormones. Most are non-cancerous. Some produce hormones; others cause symptoms by pressing on nearby structures such as the optic nerves.",
+    "common_symptoms": ["changes in vision", "headaches", "symptoms related to hormone changes such as fatigue"],
+    "typical_next_steps": [
+      "See a GP about vision changes or persistent headaches",
+      "Referral usually involves both a neurosurgeon and an endocrinologist (hormone specialist)",
+      "Pituitary function tests, including hormone levels, are typically carried out"
+    ],
+    "self_care": [
+      "Note any changes in vision, energy levels or mood, with dates, to discuss at your appointment",
+      "Take any prescribed hormone medication exactly as directed, since pituitary tumours can affect hormone balance",
+      "Pace yourself and rest when tired",
+      "Tell the DVLA (or your local licensing authority) if the tumour affects your vision or needs surgical treatment"
+    ],
+    "urgency": "soon",
+    "source": "NHS Benign brain tumour (https://www.nhs.uk/conditions/benign-brain-tumour/); Cambridge University Hospitals, DVLA driving regulations for brain tumours (https://www.cuh.nhs.uk/patient-information/dvla-driving-regulations-brain-tumours/)"
+  },
+  "no_tumor": {
+    "name": "No tumour detected",
+    "what_it_is": "This scan did not show features the system associates with the tumour types it was trained on.",
+    "common_symptoms": [],
+    "typical_next_steps": [
+      "A result of 'no tumour detected' does not rule out a tumour or any other condition",
+      "This system examines one slice from a scan, not a full study, and was trained on only three tumour types",
+      "If you have symptoms such as persistent headaches, seizures, vision changes or weakness, see a GP regardless of this result"
+    ],
+    "self_care": [
+      "If you have ongoing symptoms, keep a diary noting what they are, when they occur and how long they last",
+      "Seek an urgent GP appointment or call your local urgent-care line if a headache is severe, sudden, or comes with vomiting or confusion",
+      "Do not treat this result as a reason to delay seeing a doctor about symptoms that concern you"
+    ],
+    "urgency": "routine",
+    "source": "NHS Brain tumour symptoms (https://www.nhs.uk/conditions/brain-tumour/)"
+  }
+}

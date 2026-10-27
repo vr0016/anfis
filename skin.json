@@ -1,0 +1,65 @@
+{
+  "malignant": {
+    "name": "Possibly malignant lesion",
+    "what_it_is": "The system flagged features it associates with malignant or pre-cancerous lesions, which in this dataset include melanoma, basal cell carcinoma and actinic keratosis. This is a screening signal, not a diagnosis.",
+    "common_symptoms": [
+      "a mole that has changed size, shape or colour",
+      "a mole with an uneven shape or edges",
+      "a mole with a mix of colours",
+      "a mole that is painful, itchy, inflamed, bleeding or crusty"
+    ],
+    "typical_next_steps": [
+      "See a GP about any mole or skin area that has recently changed",
+      "Tell the GP if you or a family member have had skin cancer before",
+      "The GP may refer you to a dermatologist; this can be an urgent referral, usually within 2 weeks, which does not by itself mean you have cancer",
+      "Finding a melanoma early can make it easier to treat"
+    ],
+    "self_care": [
+      "Examine your skin about once a month, using a mirror or asking someone to check areas you cannot see, and note anything new or changed",
+      "Photograph the lesion so you can compare it over time",
+      "Stay out of the sun during the hottest part of the day, generally 11am to 3pm",
+      "Use sunscreen of at least SPF 30 with 4-star UVA protection, applied generously and reapplied after swimming",
+      "Cover up with loose clothing, a wide-brimmed hat and sunglasses",
+      "Never let your skin burn, and avoid sunbeds",
+      "Remember UV passes through cloud, so protection matters on overcast days too"
+    ],
+    "urgency": "soon",
+    "source": "NHS Melanoma skin cancer symptoms (https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms); Hull University Teaching Hospitals NHS Trust, Skin and nodal self-examination (https://hey.nhs.uk/patient-leaflet/skin-nodal-self-examination)"
+  },
+  "benign": {
+    "name": "Likely benign lesion",
+    "what_it_is": "The system did not flag features it associates with malignancy. In this dataset, benign lesions include ordinary moles (melanocytic nevi), benign keratoses and dermatofibromas.",
+    "common_symptoms": [],
+    "typical_next_steps": [
+      "A 'benign' result does not rule out skin cancer; this system is tuned for screening and still misses some malignant lesions",
+      "See a GP if the lesion changes size, shape or colour, or becomes painful, itchy, inflamed, bleeding or crusty",
+      "See a GP about any new or unusual mark on your skin that has not gone away after a few weeks"
+    ],
+    "self_care": [
+      "Check your moles regularly for change; most moles are harmless but it is worth knowing what is normal for you",
+      "Photograph the lesion now so you have a reference point for comparison later",
+      "Protect moles from sun damage: cover up, wear a hat if moles are on your face, and use SPF 30 or higher",
+      "Take extra care in the sun if you have many moles or pale skin",
+      "Avoid sunbeds"
+    ],
+    "urgency": "routine",
+    "source": "NHS Moles (https://www.nhs.uk/conditions/moles/); NHS Melanoma skin cancer symptoms (https://www.nhs.uk/conditions/melanoma-skin-cancer/symptoms)"
+  },
+  "vascular": {
+    "name": "Vascular lesion",
+    "what_it_is": "A skin lesion made up of blood vessels, such as an angioma. These are generally benign.",
+    "common_symptoms": [],
+    "typical_next_steps": [
+      "See a GP if the lesion is new, changing, bleeding, or causing you concern",
+      "As with any skin lesion, a GP or dermatologist should confirm what it is"
+    ],
+    "self_care": [
+      "Avoid scratching or picking at the lesion, which can cause bleeding",
+      "Photograph it so you can tell whether it changes over time",
+      "Continue normal sun protection: cover up, use SPF 30 or higher, and avoid sunbeds",
+      "See a GP if it starts bleeding repeatedly or grows noticeably"
+    ],
+    "urgency": "routine",
+    "source": "NHS Moles (https://www.nhs.uk/conditions/moles/)"
+  }
+}

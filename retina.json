@@ -1,0 +1,81 @@
+{
+  "CNV": {
+    "name": "Choroidal neovascularisation (wet AMD)",
+    "what_it_is": "Abnormal blood vessels growing at the back of the eye, which is the cause of wet age-related macular degeneration. It is less common than the dry form but can worsen quickly, sometimes within days or weeks.",
+    "common_symptoms": ["difficulty seeing fine detail such as small print", "straight lines appearing wavy or distorted", "gaps or dark spots in central vision"],
+    "typical_next_steps": [
+      "See an optometrist straight away if you notice distortion or sudden changes in central vision",
+      "If wet AMD is suspected, you may be referred to an eye doctor (ophthalmologist) or specialist AMD service, usually within about a week",
+      "Treatment can help stop vision getting worse, and wet AMD can often be treated if caught early"
+    ],
+    "self_care": [
+      "Use an Amsler grid regularly to check each eye separately; contact your eye-care professional straight away if the lines look wavy, broken or missing",
+      "Stop smoking if you smoke, which is the single most effective step for eye health",
+      "Eat a balanced diet including plenty of fresh fruit and dark green leafy vegetables",
+      "Keep blood pressure and cholesterol under control, as both are linked to AMD",
+      "Protect your eyes from UV light with sunglasses",
+      "Ask your eye-care professional whether supplements are appropriate for you rather than starting them yourself"
+    ],
+    "urgency": "urgent",
+    "source": "NHS AMD getting diagnosed (https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/getting-diagnosed/); NHS Wales Eye Care, Lifestyle and eye health (https://www.nhs.wales/sa/eye-care-wales/)"
+  },
+  "DME": {
+    "name": "Diabetic macular oedema",
+    "what_it_is": "A form of diabetic retinopathy in which fluid leaks and collects in the macula, the central part of the retina, causing it to swell. It affects central vision while peripheral vision is usually unaffected.",
+    "common_symptoms": ["blurred or reduced central vision", "difficulty seeing fine detail"],
+    "typical_next_steps": [
+      "Attend your annual diabetic eye screening appointment, which is designed to catch this early",
+      "Visit your optician regularly and tell the optometrist that you are diabetic",
+      "Treatments are available; a specialist will discuss the options with you"
+    ],
+    "self_care": [
+      "Keep blood sugar levels within the range agreed with your diabetes care team, and monitor them regularly",
+      "Keep blood pressure and cholesterol under control, as both affect how quickly retinopathy progresses",
+      "Stop smoking if you smoke; smoking substantially accelerates damage to the eyes",
+      "Eat a healthy, balanced diet, cutting down on salt, fat and sugar",
+      "Attend every diabetic eye screening appointment, even if your diabetes feels well controlled",
+      "Get professional advice straight away if you notice any new problem with your sight"
+    ],
+    "urgency": "soon",
+    "source": "NHS Diabetic retinopathy prevention (https://www.nhs.uk/conditions/diabetic-retinopathy/prevention); York and Scarborough Teaching Hospitals NHS Trust, Diabetic eye screening (https://www.yorkhospitals.nhs.uk/)"
+  },
+  "DRUSEN": {
+    "name": "Drusen",
+    "what_it_is": "Small deposits of lipid and protein under the retina, visible as yellow dots. Drusen can be a normal part of ageing, but medium or large drusen at the macula can indicate early age-related macular degeneration.",
+    "common_symptoms": ["often none in the early stages", "vision may still be good"],
+    "typical_next_steps": [
+      "Drusen are commonly picked up during a routine eye examination by an optometrist",
+      "Early and intermediate AMD may cause no vision loss and no symptoms, so regular eye tests matter",
+      "See an optometrist straight away if straight lines start to look wavy or distorted, which can indicate the wet form developing"
+    ],
+    "self_care": [
+      "Have regular eye examinations, including a check of the macula",
+      "Use an Amsler grid to check each eye, and report any distortion promptly",
+      "Stop smoking if you smoke",
+      "Eat a diet with plenty of fresh fruit and dark green leafy vegetables",
+      "Keep blood pressure and cholesterol under control",
+      "Wear sunglasses to protect against UV light"
+    ],
+    "urgency": "routine",
+    "source": "RNIB Age-related macular degeneration (https://www.rnib.org.uk/your-eyes/amd-awareness-month/more-information-on-amd/); NHS Wales Eye Care, Lifestyle and eye health (https://www.nhs.wales/sa/eye-care-wales/)"
+  },
+  "NORMAL": {
+    "name": "Normal retina",
+    "what_it_is": "This scan did not show features the system associates with the three retinal conditions it was trained on.",
+    "common_symptoms": [],
+    "typical_next_steps": [
+      "A 'normal' result does not rule out eye disease; this system was trained on only three conditions",
+      "See an optometrist if you notice any changes in your vision, particularly distortion of straight lines or difficulty seeing detail",
+      "If you have diabetes, continue attending your annual diabetic eye screening regardless of this result"
+    ],
+    "self_care": [
+      "Have a regular eye examination; an eye test should be part of everyone's routine health care",
+      "Stop smoking if you smoke, which benefits eye health as well as general health",
+      "Keep blood pressure and cholesterol under control",
+      "Wear sunglasses in strong sunlight",
+      "See an optometrist promptly about any new change in your vision, rather than waiting for your next routine test"
+    ],
+    "urgency": "routine",
+    "source": "NHS Wales Eye Care, Lifestyle and eye health (https://www.nhs.wales/sa/eye-care-wales/); NHS AMD getting diagnosed (https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/getting-diagnosed/)"
+  }
+}
